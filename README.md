@@ -9,6 +9,8 @@ About Me </b>
 <b/> I’m currently learning ...</b>
 - Further develop my SQL, Python, R skills
 
-<b/> Feel free to connect with me on LinkedIn! </b>
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kathyleeyh/)
+or visit my [portfolio](https://kathyleeyh.wixsite.com/portfolio)!
 
-https://www.linkedin.com/in/kathyleeyh/
+
+
